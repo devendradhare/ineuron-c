@@ -1,0 +1,12 @@
+C Language Live Community Classes Assignment 1
+
+Assignment-1
+1. Why do computers understand only binary language?
+2. What is the full form of IDE?
+3. What is the difference between a text editor and a code editor?
+4. What are the steps to develop software using the C language?
+5. Explore by your own
+    1. What is the latest version of C Language?
+    2. Who developed C Language?
+    3. What is the difference between System and Application Software?
+    4. How to convert a number from a decimal number system to a binary number system?

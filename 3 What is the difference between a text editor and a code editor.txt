@@ -1,0 +1,7 @@
+3. What is the difference between a text editor and a code editor?
+
+ans. =>
+A text editor simply allows you to write and edit text and 
+it does not have anything built-in to help you to code whereas
+a code editor is also a text editor 
+but it also helps you write code.

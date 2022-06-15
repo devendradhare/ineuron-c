@@ -1,0 +1,13 @@
+1. Why do computers understand only binary language?
+
+ans. => 
+Computer is an electronic device ,
+it is collection of hardware devices such as RAM ,ROM , CPU, hard disk  etc.
+and they only understand electrical signals i.e.
+transition in the voltage .
+Modern based computers are based on semi conductor technology which understand high and low voltages.
+the CPU which consist of million of transistors they acts as switch ,
+at low voltage these acts as close switch 
+and at high voltage these acts as open switch  
+and open switch represents 1 and close represents as 0 .
+0 and 1 is called binary .
