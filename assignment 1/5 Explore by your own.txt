@@ -1,0 +1,26 @@
+1. What is the latest version of C Language?
+ans. =>
+        C17 is the current standard for the C programming language. 
+        Published in June 2018.
+
+
+2. Who developed C Language?
+ans. =>
+        C language developed in the early 1970s by American computer scientist Dennis M. Ritchie .
+
+
+3. What is the difference between System and Application Software?
+ans. =>
+        The system software manages the computer system resources. 
+        It also acts as a platform to run application software. 
+        On the other hand Application software is installed 
+        according to the users requirements to perform a specific task.
+
+
+4. How to convert a number from a decimal number system to a binary number system?
+ans. =>
+        (1) ​​Write down the number.
+        (​​2) Divide it by 2 and note the remainder.
+        (​​3) Divide the quotient obtained by 2 and note the remainder.
+        (​​4) Repeat the same process till we get 0 as the quotient.
+        (​​5) Write the values of all the remainders starting from the bottom to the top.

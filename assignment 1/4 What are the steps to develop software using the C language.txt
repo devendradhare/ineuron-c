@@ -1,0 +1,6 @@
+4. What are the steps to develop software using the C language?
+
+ans. =>
+        there are two steps:
+        ​​1. create a source file.
+        ​2. ​build a software.
