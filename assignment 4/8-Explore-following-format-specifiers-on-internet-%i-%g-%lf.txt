@@ -1,0 +1,63 @@
+8. Explore following format specifiers on internet - %i, %g, %lf
+ans. =>
+        Format Specifier	        Type
+---------------------------------------------------------------------
+        %c              	        Character
+        %d              	        Signed integer
+        %e or %E	                Scientific notation of floats
+        %f              	        Float values
+        %g or %G	                Similar as %e or %E
+        %hi	                        Signed integer (short)
+        %hu	                        Unsigned Integer (short)
+        %i              	        Unsigned integer
+        %l or %ld or %li	        Long
+        %lf             	        Double
+        %Lf             	        Long double
+        %lu	                        Unsigned int or unsigned long
+        %lli or %lld	            Long long
+        %llu	                    Unsigned long long
+        %o              	        Octal representation
+        %p              	        Pointer
+        %s              	        String
+        %u              	        Unsigned int
+        %x or %X	                Hexadecimal representation
+        %n              	        Prints nothing
+        %%              	        Prints % character
+
+        #include <stdio.h>
+        main() {
+            char ch = 'B';
+            printf("%c\n", ch);        //Output  B           //printing character data   
+
+            int x = 45, y = 90;
+            printf("%d\n", x);         //Output  45
+            printf("%i\n", y);         //Output  90
+            
+            float f = 12.67;
+            printf("%e\n", f);         //Output  12.670000   //print in scientific notation
+            printf("%f\n", f);         //Output  1.267000e+001  //print float value
+
+            int a = 67;
+            printf("%x\n", a);         //Output  103         //print in hex format
+            printf("%o\n", a);         //Output  43          //print in octal format
+
+            char str[] = "Hello World";
+            printf("%s\n", str);       //Output  Hello World
+            printf("%-20s\n", str);    //Output  Hello World //left align
+            printf("%20s\n", str);     //Output  Hello World //shift to the right 20 characters including the string
+            printf("%20.5s\n", str);   //Output  Hello       //shift to the right 20 characters including the string, and print string up to 5 character
+            printf("%-20.5s\n", str);  //Output  Hello       //left align and print string up to 5 character
+}
+Output
+B
+45
+90
+12.670000
+1.267000e+001
+103
+43
+Hello World
+         Hello World
+Hello World
+               Hello
+Hello

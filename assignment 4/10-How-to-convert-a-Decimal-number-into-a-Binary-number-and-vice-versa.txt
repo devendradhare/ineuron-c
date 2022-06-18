@@ -1,0 +1,25 @@
+10. How to convert a Decimal number into a Binary number and vice versa.
+ans. =>
+        let's take a decimal 555
+
+        divide by 2 remainder = 1, quotient =277
+
+        again divide 277(quotient) by 2 remainder = 1, quotient = 138 (repeat the process till q = 1)
+
+        r = 0, q = 69
+
+        r = 1, q = 34
+
+        r = 0, q = 17
+
+        r = 1, q = 8
+
+        r = 0, q = 4
+
+        r = 0, q = 2
+
+        r = 0, q = 1
+
+        now the binary is bottom to top all remainders (but first include last quotient 1)
+
+        1 0 0 0 1 0 1 0 1 1

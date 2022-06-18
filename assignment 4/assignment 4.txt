@@ -1,0 +1,12 @@
+C Language Live Community Classes Assignment 4😀
+
+1. Write a C program to print Hello Students on the screen.
+2. Write a C Program to print Hello on the first line and Students in the second line.
+3. Write a C program to print “MySirG” on the screen
+4. Write a C program to print “Teacher’s Day” on the screen
+5. Write a C program to print \n on the screen
+6. Write a C program to print %d on the screen
+7. Write a C program containing declaration of three variables (of type int, char and float), also assign some values to them and print values of all three variables using single printf(). 
+8. Explore following format specifiers on internet - %i, %g, %lf
+9. Write a C program to print character stored in a char variable, also print its ASCII code.
+10. How to convert a Decimal number into a Binary number and vice versa.
