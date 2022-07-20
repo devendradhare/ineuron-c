@@ -10,7 +10,7 @@ int main()
     printf("Enter sell price : ");
     scanf("%f",&slP);
 
-    profit_p = ((coP*slP*1.0)/coP)-coP;
+    profit_p = ((slP*100)/coP)-100;
     // profit_p = ((slP-coP)/coP)*100.0;
 
     printf("\nprofit = %f%%",profit_p);
